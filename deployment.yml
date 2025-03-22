@@ -14,6 +14,6 @@ spec:
     spec:
       containers:
         - name: django-app
-          image: codernocap4121/my-django-app:build-11
+          image: codernocap4121/my-django-app:build-12
           ports:
             - containerPort: 8000
